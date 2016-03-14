@@ -10,5 +10,12 @@ int main()
 	float x1 = 0.0; 
 	float x2 = 0.0;
 		
+	printf("Input a: ");
+	scanf("%f", &a);
+	printf("Input b: ");
+	scanf("%f", &b);
+	printf("Input c: ");
+	scanf("%f", &c);
+	
 	return 0;
 }
