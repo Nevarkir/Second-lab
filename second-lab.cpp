@@ -17,5 +17,7 @@ int main()
 	printf("Input c: ");
 	scanf("%f", &c);
 	
+	d = b * b - 4 * a * c;
+	
 	return 0;
 }
